@@ -1,0 +1,55 @@
+2024-05-18 08:59:29,040 - INFO - Adriana 832545725734 Function get_even_number Started
+2024-05-18 08:59:29,041 - DEBUG - Adriana 832545725734 input data is [23, 34, 67, 80]
+2024-05-18 08:59:29,041 - DEBUG - Adriana 832545725734 Item is 23
+2024-05-18 08:59:29,041 - WARNING - Adriana 832545725734 23 is not an even number
+2024-05-18 08:59:29,041 - DEBUG - Adriana 832545725734 Item is 34
+2024-05-18 08:59:29,041 - DEBUG - Adriana 832545725734 Item added to the even list 34
+2024-05-18 08:59:29,042 - DEBUG - Adriana 832545725734 Item is 67
+2024-05-18 08:59:29,042 - WARNING - Adriana 832545725734 67 is not an even number
+2024-05-18 08:59:29,042 - DEBUG - Adriana 832545725734 Item is 80
+2024-05-18 08:59:29,042 - DEBUG - Adriana 832545725734 Item added to the even list 80
+2024-05-18 08:59:29,042 - CRITICAL - Adriana 832545725734 Error is unsupported operand type(s) for +: 'int' and 'str'
+2024-05-18 08:59:30,201 - INFO - Adriana 832545725734 Function get_even_number Started
+2024-05-18 08:59:30,201 - DEBUG - Adriana 832545725734 input data is [23, 34, 67, 80]
+2024-05-18 08:59:30,201 - DEBUG - Adriana 832545725734 Item is 23
+2024-05-18 08:59:30,202 - WARNING - Adriana 832545725734 23 is not an even number
+2024-05-18 08:59:30,202 - DEBUG - Adriana 832545725734 Item is 34
+2024-05-18 08:59:30,202 - DEBUG - Adriana 832545725734 Item added to the even list 34
+2024-05-18 08:59:30,202 - DEBUG - Adriana 832545725734 Item is 67
+2024-05-18 08:59:30,202 - WARNING - Adriana 832545725734 67 is not an even number
+2024-05-18 08:59:30,203 - DEBUG - Adriana 832545725734 Item is 80
+2024-05-18 08:59:30,203 - DEBUG - Adriana 832545725734 Item added to the even list 80
+2024-05-18 08:59:30,203 - CRITICAL - Adriana 832545725734 Error is unsupported operand type(s) for +: 'int' and 'str'
+2024-05-18 08:59:32,788 - INFO - Adriana 832545725734 Function get_even_number Started
+2024-05-18 08:59:32,788 - DEBUG - Adriana 832545725734 input data is [23, 34, 67, 80]
+2024-05-18 08:59:32,788 - DEBUG - Adriana 832545725734 Item is 23
+2024-05-18 08:59:32,788 - WARNING - Adriana 832545725734 23 is not an even number
+2024-05-18 08:59:32,789 - DEBUG - Adriana 832545725734 Item is 34
+2024-05-18 08:59:32,789 - DEBUG - Adriana 832545725734 Item added to the even list 34
+2024-05-18 08:59:32,789 - DEBUG - Adriana 832545725734 Item is 67
+2024-05-18 08:59:32,789 - WARNING - Adriana 832545725734 67 is not an even number
+2024-05-18 08:59:32,789 - DEBUG - Adriana 832545725734 Item is 80
+2024-05-18 08:59:32,789 - DEBUG - Adriana 832545725734 Item added to the even list 80
+2024-05-18 08:59:32,789 - CRITICAL - Adriana 832545725734 Error is unsupported operand type(s) for +: 'int' and 'str'
+2024-05-18 08:59:34,528 - INFO - Adriana 832545725734 Function get_even_number Started
+2024-05-18 08:59:34,529 - DEBUG - Adriana 832545725734 input data is [23, 34, 67, 80]
+2024-05-18 08:59:34,529 - DEBUG - Adriana 832545725734 Item is 23
+2024-05-18 08:59:34,529 - WARNING - Adriana 832545725734 23 is not an even number
+2024-05-18 08:59:34,529 - DEBUG - Adriana 832545725734 Item is 34
+2024-05-18 08:59:34,529 - DEBUG - Adriana 832545725734 Item added to the even list 34
+2024-05-18 08:59:34,530 - DEBUG - Adriana 832545725734 Item is 67
+2024-05-18 08:59:34,530 - WARNING - Adriana 832545725734 67 is not an even number
+2024-05-18 08:59:34,530 - DEBUG - Adriana 832545725734 Item is 80
+2024-05-18 08:59:34,530 - DEBUG - Adriana 832545725734 Item added to the even list 80
+2024-05-18 08:59:34,530 - CRITICAL - Adriana 832545725734 Error is unsupported operand type(s) for +: 'int' and 'str'
+2024-05-18 09:00:06,520 - INFO - Adriana 832545725734 Function get_even_number Started
+2024-05-18 09:00:06,521 - DEBUG - Adriana 832545725734 input data is [23, 34, 67, 80]
+2024-05-18 09:00:06,521 - DEBUG - Adriana 832545725734 Item is 23
+2024-05-18 09:00:06,521 - WARNING - Adriana 832545725734 23 is not an even number
+2024-05-18 09:00:06,521 - DEBUG - Adriana 832545725734 Item is 34
+2024-05-18 09:00:06,521 - DEBUG - Adriana 832545725734 Item added to the even list 34
+2024-05-18 09:00:06,521 - DEBUG - Adriana 832545725734 Item is 67
+2024-05-18 09:00:06,521 - WARNING - Adriana 832545725734 67 is not an even number
+2024-05-18 09:00:06,522 - DEBUG - Adriana 832545725734 Item is 80
+2024-05-18 09:00:06,522 - DEBUG - Adriana 832545725734 Item added to the even list 80
+2024-05-18 09:00:06,522 - CRITICAL - Adriana 832545725734 Error is unsupported operand type(s) for +: 'int' and 'str'
